@@ -1,3 +1,4 @@
+:ogp_description_length: 86
 How To Mod Persona 3 FES!
 =========================
 .. image:: images/how_to_mod.png
@@ -56,4 +57,3 @@ Table of Contents
    otherpersonagames
    afterword
 
-:ogp_description_length: 86
