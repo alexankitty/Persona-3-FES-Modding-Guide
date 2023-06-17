@@ -23,7 +23,7 @@ extensions = [
 
 # -- OGP Configuration
 
-ogp_image = "images/How To Mod.png"
+ogp_image = "images/how_to_mod.png"
 ogp_use_first_image = True
 
 

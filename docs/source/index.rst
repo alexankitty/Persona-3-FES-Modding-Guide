@@ -1,6 +1,6 @@
 How to mod Persona 3 FES!
 =========================
-.. image:: images/How To Mod.png
+.. image:: images/how_to_mod.png
 
 The purpose of this guide is to help anyone be able to mod Persona 3 FES for the PS2.
 
