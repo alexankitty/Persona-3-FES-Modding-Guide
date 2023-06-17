@@ -7,8 +7,8 @@ copyright = '2023, Alexankitty'
 author = 'Alexankitty'
 html_favicon = 'favicon.png'
 
-release = '0.9'
-version = '1.0.9'
+release = '1.1.0'
+version = '1.1.0'
 
 # -- General configuration
 
