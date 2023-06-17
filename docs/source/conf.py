@@ -23,7 +23,7 @@ extensions = [
 
 # -- OGP Configuration
 
-ogp_image = "https://raw.githubusercontent.com/alexankitty/Persona-3-FES-Modding-Guide/main/docs/images/How%20To%20Mod.png"
+ogp_image = "images/How To Mod.png"
 ogp_use_first_image = True
 
 
