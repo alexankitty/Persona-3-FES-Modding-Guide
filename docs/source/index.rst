@@ -56,4 +56,5 @@ Table of Contents
    otherpersonagames
    troubleshooting
    afterword
-
+   changelog
+   
