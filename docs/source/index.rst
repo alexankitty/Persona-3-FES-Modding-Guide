@@ -1,5 +1,5 @@
 How to mod Persona 3 FES!
-===================================
+=========================
 
 **Persona 3 FES** 
 
@@ -38,9 +38,7 @@ Requirements
    Lastly, any links in this guide it's recommended you open them up in a new tab so you can keep the guide open. You can either middle click, or right click and click "**Open Link in a New Tab**"
 
 
-
-
-Contents
+Table of Contents
 --------
 
 .. toctree::
