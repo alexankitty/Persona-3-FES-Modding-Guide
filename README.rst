@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+How to Mod Persona 3 FES
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub repo holds all of the content for building the readthedocs version of this guide.
 
-Read the tutorial here:
+The guide can be accessed below.
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://persona-3-fes-modding-guide.readthedocs.io/en/latest/
