@@ -42,7 +42,7 @@ Table of Contents
 --------
 
 .. toctree::
- :numbered:
+   :numbered:
 
    downloading
    installingpcsx2
