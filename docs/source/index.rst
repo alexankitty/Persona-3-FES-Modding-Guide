@@ -8,7 +8,7 @@ The purpose of this guide is to help anyone be able to mod Persona 3 FES for the
 Requirements
 ------------
 - `Latest PCSX2 Nightly Build <https://pcsx2.net/downloads>`_
-- `Persona 3 FES: HD Overhaul (Recommended) https://gamebanana.com/wips/63624`
+- `Persona 3 FES: HD Overhaul (Recommended) <https://gamebanana.com/wips/63624>`_
 - `Recommended list of mods (Dub/English Audio) <https://gamebanana.com/collections/376>`_
 - `Recommended list of mods (Undub/Japanese Audio) <https://gamebanana.com/collections/380>`_
 - `Latest Aemulus Release <https://github.com/TekkaGB/AemulusModManager/releases>`_
