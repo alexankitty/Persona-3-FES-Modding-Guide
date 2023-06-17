@@ -5,6 +5,7 @@
 project = 'How to Mod Persona 3 FES'
 copyright = '2023, Alexankitty'
 author = 'Alexankitty'
+html_favicon = 'favicon.png'
 
 release = '0.9'
 version = '1.0.9'
@@ -17,7 +18,14 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    "sphinxext.opengraph",
 ]
+
+# -- OGP Configuration
+
+ogp_site_url = "https://persona-3-fes-modding-guide.readthedocs.io/"
+ogp_use_first_image = True
+
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
