@@ -45,8 +45,7 @@ Table of Contents
    :numbered:
 
    downloading
-   installingpcsx2
-   installingaemulus
+   installingprogs
    installingp3hd
    setupaemulus
    installingmods
