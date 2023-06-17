@@ -18,7 +18,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    "sphinxext.opengraph",
+    "sphinx.ext.opengraph",
 ]
 
 # -- OGP Configuration
