@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'How to Mod Persona 3 FES'
 copyright = '2023, Alexankitty'
 author = 'Alexankitty'
 
