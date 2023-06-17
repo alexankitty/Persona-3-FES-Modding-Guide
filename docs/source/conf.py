@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'How to Mod Persona 3 FES'
+project = 'How To Mod Persona 3 FES'
 copyright = '2023, Alexankitty'
 author = 'Alexankitty'
 html_favicon = 'favicon.png'
@@ -23,7 +23,7 @@ extensions = [
 
 # -- OGP Configuration
 
-ogp_image = "images/how_to_mod.png"
+ogp_image = "/en/latest/_images/how_to_mod.png"
 ogp_use_first_image = True
 
 

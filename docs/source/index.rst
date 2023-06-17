@@ -1,4 +1,4 @@
-How to mod Persona 3 FES!
+How To Mod Persona 3 FES!
 =========================
 .. image:: images/how_to_mod.png
 
