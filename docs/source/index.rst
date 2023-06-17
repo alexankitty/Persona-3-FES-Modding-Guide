@@ -35,7 +35,7 @@ Requirements
 
    Some images may be difficult to see due to limited width, if you right click, then select "**Open Image in a New Tab**" you can view the full size image.
 
-   Lastly, any links in this guide it's recommended you open them up in a new tab so you can keep the guide open. You can either middle click, or right click and click "**Open Link in a New Tab**"
+   Lastly, any links in this guide it's recommended you open them up in a new tab so you can keep the guide open. You can either middle click, or right click and click "**Open Link in a New Tab**."
 
 
 Table of Contents
@@ -55,5 +55,6 @@ Table of Contents
    otherplatforms
    emudeck
    otherpersonagames
+   troubleshooting
    afterword
 
