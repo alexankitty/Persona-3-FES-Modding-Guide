@@ -11,7 +11,7 @@ The guide can be accessed below.
 
 ## Building
 
-## Linux
+### Linux
 
 ``` sh
 git clone https://github.com/alexankitty/Persona-3-FES-Modding-Guide
@@ -24,7 +24,7 @@ make html
 deactivate
 ```
 
-## Windows
+### Windows
 
 cmd 
 ``` sh 
