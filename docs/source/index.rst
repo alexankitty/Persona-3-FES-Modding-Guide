@@ -25,7 +25,7 @@ Requirements
 
    If you run into any problems, be sure to check :doc:`troubleshooting`. I'm also available in the `P3HD Discord Server <https://discord.gg/dvrn8xFBF6>`_ along with a few other good people that will be happy to help, just ask for help in `#p3hd-help <https://discord.com/channels/923959061467258890/923969627019681812>`_.
 
-   If you plan on using CEP, this guide is incompatible because their setup requires you to name your ELF as **SLUS_216.21.ELF**. Further, some of the mods provided by CEP are incompatible with P3HD overhaul and are not recommended. The recommended mods lists provided should have everything you need. If you still want to use CEP, the documentation and mod can be found `here <https://gamebanana.com/mods/50322>`_. No support will be given to CEP users and you will instead be recommended to start from scratch and follow this guide.
+   CEP is being discontinued due to Persona 3 Reload, and its lack of compatibility with P3HD. No support will be given to CEP users and you will instead be recommended to start from scratch and follow this guide.
 
    This guide will assume you're using windows, as Aemulus only runs under windows. For setting up mods under MacOS or for Linux/Steam Deck there will be an Extras section at the end of this guide. Do note that a Windows computer or VM is still required to setup your mods at the time of this writing.
 

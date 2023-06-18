@@ -194,6 +194,7 @@ PCSX2 Setup
    click each button in the window to remap them to how you see fit.
 
 | 
+
 | |image137|
 | |image138|
 
