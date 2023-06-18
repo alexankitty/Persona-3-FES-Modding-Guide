@@ -6,6 +6,9 @@ project = 'How To Mod Persona 3 FES'
 copyright = '2023, Alexankitty'
 author = 'Alexankitty'
 html_favicon = 'favicon.png'
+html_extra_path = [
+    "extra"
+]
 
 release = '1.1.0'
 version = '1.1.0'
