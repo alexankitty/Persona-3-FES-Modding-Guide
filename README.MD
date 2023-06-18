@@ -27,7 +27,7 @@ deactivate
 ## Windows
 
 cmd 
-``` bat 
+``` cmd 
 git clone https://github.com/alexankitty/Persona-3-FES-Modding-Guide 
 cd .\Persona-3-FES-Modding-Guidedocs
 python -m venv .\virtual
@@ -39,13 +39,13 @@ deactivate
 ```
 
 powershell
-``` ps1
+``` powershell
 git clone https://github.com/alexankitty/Persona-3-FES-Modding-Guide
 cd .\Persona-3-FES-Modding-Guidedocs
 python -m venv .\virtual
 .\virtual\Scripts\Activate.ps1
 pip install -U sphinx
 pip install -r .\source\requirements.txt
-cmd /c .make.bat html
+cmd /c .\make.bat html
 deactivate
 ```
