@@ -7,8 +7,7 @@ copyright = '2023, Alexankitty'
 author = 'Alexankitty'
 html_favicon = 'favicon.png'
 html_extra_path = [
-    "extra/",
-    "extra/sd_image.jpg",
+    "extra",
 ]
 
 release = '1.1.0'
@@ -28,7 +27,7 @@ extensions = [
 # -- OGP Configuration
 
 ogp_site_url = "https://persona-3-fes-modding-guide.readthedocs.io/en/latest/"
-ogp_image = "_images/sd_image.png"
+ogp_image = "sd_image.png"
 ogp_use_first_image = False
 
 
