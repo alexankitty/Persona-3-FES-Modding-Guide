@@ -27,7 +27,7 @@ deactivate
 ## Windows
 
 cmd 
-``` cmd 
+``` sh 
 git clone https://github.com/alexankitty/Persona-3-FES-Modding-Guide 
 cd .\Persona-3-FES-Modding-Guidedocs
 python -m venv .\virtual
@@ -39,7 +39,7 @@ deactivate
 ```
 
 powershell
-``` powershell
+``` sh
 git clone https://github.com/alexankitty/Persona-3-FES-Modding-Guide
 cd .\Persona-3-FES-Modding-Guidedocs
 python -m venv .\virtual
