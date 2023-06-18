@@ -7,7 +7,8 @@ copyright = '2023, Alexankitty'
 author = 'Alexankitty'
 html_favicon = 'favicon.png'
 html_extra_path = [
-    "extra"
+    "extra/",
+    "extra/sd_image.jpg",
 ]
 
 release = '1.1.0'
