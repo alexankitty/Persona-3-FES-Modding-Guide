@@ -69,7 +69,7 @@ Installing 7-Zip, PCSX2, and Aemulus
 -  d.    Make another folder called ROM (this is where your Persona 3
    FES.iso will go) using the same steps as above.
 -  e.    Make one last folder called MOD (this is where your ELF will go
-   along with your Aemulus mod files using the same steps as above.
+   along with your Aemulus mod files using the same steps as above.)
 
 | 
 | |image15|
@@ -153,7 +153,7 @@ Installing 7-Zip, PCSX2, and Aemulus
    We’ll cover making sure your BIOS is in pcsx2 correctly later. For
    now, go ahead and close pcsx2.
 
-| 
+
 .. |image6| image:: https://i.imgur.com/ywvntKp.png
 .. |image7| image:: https://i.imgur.com/Qr7CXED.png
 .. |image8| image:: https://i.imgur.com/lC6roJt.png
