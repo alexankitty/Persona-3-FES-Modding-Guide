@@ -33,7 +33,8 @@ ogp_social_cards = {
     "enable": False
 }
 ogp_custom_meta_tags = [
-    '<meta name="twitter:card" content="summary_large_image">',
+    '<meta name="twitter:card" content="summary_large_image" />',
+    '<meta name="theme-color" content="##40BAE0" />',
 ]
 
 
