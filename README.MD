@@ -28,18 +28,24 @@ deactivate
 
 cmd 
 ``` bat 
-git clone
-<https://github.com/alexankitty/Persona-3-FES-Modding-Guide> cd
-.Persona-3-FES-Modding-Guidedocs python -m venv .virtual
-.virtualScriptsactivate.bat pip install -U sphinx pip install -r
-.sourcerequirements.txt .make.bat html deactivate
+git clone https://github.com/alexankitty/Persona-3-FES-Modding-Guide 
+cd .\Persona-3-FES-Modding-Guidedocs
+python -m venv .\virtual
+.\virtual\Scripts\activate.bat 
+pip install -U sphinx 
+pip install -r .\source\requirements.txt 
+.\make.bat html
+deactivate
 ```
 
 powershell
 ``` ps1
- git clone
-<https://github.com/alexankitty/Persona-3-FES-Modding-Guide> cd
-.Persona-3-FES-Modding-Guidedocs python -m venv .virtual
-.virtualScriptsActivate.ps1 pip install -U sphinx pip install -r
-.sourcerequirements.txt cmd /c .make.bat html deactivate
+git clone https://github.com/alexankitty/Persona-3-FES-Modding-Guide
+cd .\Persona-3-FES-Modding-Guidedocs
+python -m venv .\virtual
+.\virtual\Scripts\Activate.ps1
+pip install -U sphinx
+pip install -r .\source\requirements.txt
+cmd /c .make.bat html
+deactivate
 ```
