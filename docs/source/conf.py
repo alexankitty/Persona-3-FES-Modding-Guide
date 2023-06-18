@@ -32,6 +32,9 @@ ogp_use_first_image = False
 ogp_social_cards = {
     "enable": False
 }
+ogp_custom_meta_tags = [
+    '<meta name="twitter:card" content="summary_large_image">',
+]
 
 
 intersphinx_mapping = {
