@@ -27,7 +27,7 @@ extensions = [
 # -- OGP Configuration
 
 ogp_site_url = "https://persona-3-fes-modding-guide.readthedocs.io/en/latest/"
-ogp_image = "sd_image.png"
+ogp_image = "sd_image.jpg"
 ogp_use_first_image = False
 
 
