@@ -1,4 +1,4 @@
-:ogp_description_length: 88
+:og:description: The purpose of this guide is to help anyone be able to mod Persona 3 FES for the PS2.
 
 How To Mod Persona 3 FES!
 =========================
