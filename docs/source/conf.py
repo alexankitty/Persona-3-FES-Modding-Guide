@@ -25,7 +25,7 @@ extensions = [
 
 ogp_site_url = "https://persona-3-fes-modding-guide.readthedocs.io/en/latest/"
 ogp_image = "_images/sd_image.png"
-ogp_use_first_image = True
+ogp_use_first_image = False
 
 
 intersphinx_mapping = {
