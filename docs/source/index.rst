@@ -57,7 +57,5 @@ Table of Contents
    troubleshooting
    afterword
    changelog
-   
-   :hidden:
-   include
+
    
