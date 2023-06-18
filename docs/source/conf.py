@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'How To Mod Persona 3 FES'
+project = 'Persona 3 FES Modding Guide'
 copyright = '2023, Alexankitty'
 author = 'Alexankitty'
 html_favicon = 'favicon.png'
