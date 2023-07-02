@@ -10,9 +10,9 @@ PCSX2 Setup
 | |image105|
 | |image106|
 
--  2.    Download the HostFS cheat, and optionally if you’re playing
-   16:9 the Wide cheat from
+-  2.    Download the HostFS cheat
    `here <https://drive.google.com/drive/folders/1QsxslhJpkPKNOz7bgveneFKZ_nf9VzFG?usp=sharing>`__.
+   (There is a 16:9 patch included in the link as well.)
 -  3.    Open another file explorer window and navigate to your
    downloads folder by clicking downloads under the Quick Access area.
 
