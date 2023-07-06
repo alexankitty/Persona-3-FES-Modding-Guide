@@ -16,8 +16,12 @@ EmuDeck
 | Instances of ``SLUS_216.21.ELF`` can be replaced by whatever you named
   your ELF file, like **Persona 3 FES.ELF**
 | Make sure to copy your ISO to ``Emulation/roms`` as well.
-| Your cheats and textures folders copied into
+| Your cheats folders are copied into
   ``/home/deck/.config/PCSX2/``
+| Your textures should be copied into one of the following paths.
+|    Internal installs: ``/home/deck/Emulation/storage/pcsx2/``
+|    SD Card Installs: ``/run/media/mmcblk0p1/Emulation/storage/pcsx2/`` (Note: mmcblk0p1 may vary depending on the device and partitioning, please double check your emudeck settings)
+
 | Follow `these
   instructions <https://github.com/dragoonDorise/EmuDeck/wiki/PCSX2-QT#how-to-install-custom-textures>`__
   to enable texture replacement.
