@@ -40,7 +40,7 @@ Adding the game to Steam (Optional)
 | |image149|
 
 -  6.    Change the name to say Persona 3 FES, and change the launch
-   options to – “C:\\Emulation\\MOD\\Persona 3 FES.ELF” (or whatever
+   options to `-- "C:\\Emulation\\MOD\\Persona 3 FES.ELF"` (or whatever
    else you may have named it as)
 
 | 
