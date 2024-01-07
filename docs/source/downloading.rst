@@ -6,7 +6,7 @@ PCSX2
 
 | 
 | Click the Latest PCSX2 Nightly Build under Requirements, or click
-  `here <https://pcsx2.net/downloads>`__.
+  `here <https://github.com/PCSX2/pcsx2/releases/tag/v1.7.5397>`__.
 
 #. Click **"Latest Nightly"**
 #. Then click the version that matches your OS. For most people this
@@ -48,7 +48,7 @@ Aemulus
 
 | |image5|
 
-.. |image1| image:: https://i.imgur.com/CGMjeJh.png
+.. |image1| image:: https://i.imgur.com/dUIQBXV.png
 .. |image2| image:: https://i.imgur.com/5OQRkvP.png
 .. |image3| image:: https://i.imgur.com/lzaVJgw.png
 .. |image4| image:: https://i.imgur.com/35TPObn.png
