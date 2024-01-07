@@ -9,7 +9,7 @@ The purpose of this guide is to help anyone be able to mod Persona 3 FES for the
 
 Requirements
 ------------
-- `Latest PCSX2 Nightly Build <https://pcsx2.net/downloads>`_
+- `PCSX2 Nightly v1.7.5397 <https://github.com/PCSX2/pcsx2/releases/tag/v1.7.5397>`_
 - `Persona 3 FES: HD Overhaul (Recommended) <https://gamebanana.com/wips/63624>`_
 - `Recommended list of mods (Dub/English Audio) <https://gamebanana.com/collections/376>`_
 - `Recommended list of mods (Undub/Japanese Audio) <https://gamebanana.com/collections/380>`_
@@ -39,6 +39,7 @@ Requirements
 
    Lastly, any links in this guide it's recommended you open them up in a new tab so you can keep the guide open. You can either middle click, or right click and click "**Open Link in a New Tab**."
 
+   PCSX2 v1.7.5397 is the last mod supported build at the moment. Please do not use the latest until this is resolved.
 
 Table of Contents
 -----------------
