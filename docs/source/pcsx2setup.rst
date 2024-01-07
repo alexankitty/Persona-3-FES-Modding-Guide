@@ -94,29 +94,34 @@ PCSX2 Setup
 | |image122|
 | |image123|
 
--  15.    Once that’s done, your game properties should look similar to
+-  15.    After that, if you're running the latest nightly version, click **"Cheats"** then click **"Enable All"**.
+   If you're missing the cheats option on the left, you can ignore this step and continue on.
+
+| |image139|
+
+-  16.    Once that’s done, your game properties should look similar to
    this. Go ahead and click **"Close"** now.
 
 | |image124|
 
--  16.    Next click **"Settings"**, then click **"Emulation."**
+-  17.    Next click **"Settings"**, then click **"Emulation."**
 
 | 
 | |image125|
 
--  17.    In the window that pops up, click the checkbox next to
+-  18.    In the window that pops up, click the checkbox next to
    **“Enable Cheats”** along with **“Enable Host Filesystem”** so that
    they’re both checked like in the screenshot provided below.
 
 | 
 | |image126|
 
--  18.    Next, click on **"Graphics."**
+-  19.    Next, click on **"Graphics."**
 
 | 
 | |image127|
 
--  19.    Set **"Renderer"** to **"Vulkan"** if it’s available, or to
+-  20.    Set **"Renderer"** to **"Vulkan"** if it’s available, or to
    **"Direct3D12"**, or 11 if it’s not.
 -  a.    Set your adapter to match with your GPU name.
 -  b.    Set your Aspect ratio to 4:3 if you want to play in the
@@ -129,7 +134,7 @@ PCSX2 Setup
 | 
 | |image128|
 
--  20.    Next click the **"Rendering"** tab.
+-  21.    Next click the **"Rendering"** tab.
 -  a.    Set "Internal Resolution" to either the same approximate size
    as your display, or to +1x more than it. In this example we’ll assume
    you’re using a 1920x1080 display, and will recommend you set 4x for
@@ -144,7 +149,7 @@ PCSX2 Setup
 | 
 | |image129|
 
--  21.    Click the **"Texture Replacement"** tab, the **"Search
+-  22.    Click the **"Texture Replacement"** tab, the **"Search
    Directory"** should be auto populated to
    “C:\\Emulation\\PCSX2\\Textures” if you followed this guide to a tee,
    otherwise it will be the textures folder of wherever you placed
@@ -156,24 +161,24 @@ PCSX2 Setup
 | 
 | |image130|
 
--  22.    Lastly, click **"BIOS"** and double check that you have a BIOS
+-  23.    Lastly, click **"BIOS"** and double check that you have a BIOS
    properly installed, else it’ll fail to boot. If you have a USA bios
    showing in your BIOS Selection, you should be all set.
 
 | |image131|
 
--  23.    Click **"Close"** in PCSX2 settings.
+-  24.    Click **"Close"** in PCSX2 settings.
 
 | 
 | |image132|
 
--  24.    Double click Persona 3 FES in your game list to launch the
+-  25.    Double click Persona 3 FES in your game list to launch the
    game.
 
 | 
 | |image133|
 
--  25.    To fix the window size you can either double click the screen
+-  26.    To fix the window size you can either double click the screen
    to switch to full screen mode, or click **"View"**, then **"Window
    Size"**, then set it to one less than the **"Internal Resolution"**
    you picked.
@@ -181,14 +186,14 @@ PCSX2 Setup
 | 
 | |image134|
 
--  26.    Finally, click **"Settings"**, then **"Controllers"**, then
+-  27.    Finally, click **"Settings"**, then **"Controllers"**, then
    click **"Controller Port 1 DualShock 2."**
 
 | 
 | |image135|
 | |image136|
 
--  27.    If you’re using a controller, you can select **"Automatic
+-  28.    If you’re using a controller, you can select **"Automatic
    Mapping"**, and then find your controller in the list, if you’re
    using a keyboard there are some defaults already set, but you can
    click each button in the window to remap them to how you see fit.
@@ -233,3 +238,4 @@ PCSX2 Setup
 .. |image136| image:: https://i.imgur.com/LMGGPyF.png
 .. |image137| image:: https://i.imgur.com/pd1rgJ3.png
 .. |image138| image:: https://i.imgur.com/bVfhAlf.png
+.. |image139| image:: https://i.imgur.com/vmFV44H.png
