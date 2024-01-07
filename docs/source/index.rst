@@ -16,8 +16,9 @@ Requirements
 - `Latest Aemulus Release <https://github.com/TekkaGB/AemulusModManager/releases>`_
 - `7-Zip <https://www.7-zip.org/download.html>`_
 - Approximately 6GB of free space. 1GB if you're not using P3HD.
-- `Unpatched/Clean Persona 3 FES ISO with CRC 94A82AAA <https://p3f.cep.one/install/dump-p3f-iso>`_
-- `USA/NTSC-U PS2 BIOS <https://p3f.cep.one/install/dump-ps2-bios>`_
+- Once Aemulus is installed:
+   - `Unpatched/Clean Persona 3 FES ISO with CRC 94A82AAA <https://p3f.cep.one/install/dump-p3f-iso>`_
+   - `USA/NTSC-U PS2 BIOS <https://p3f.cep.one/install/dump-ps2-bios>`_
 
 .. note::
 
