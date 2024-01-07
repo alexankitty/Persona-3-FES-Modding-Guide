@@ -26,7 +26,7 @@ Requirements
 
    If you run into any problems, be sure to check :doc:`troubleshooting`. I'm also available in the `P3HD Discord Server <https://discord.gg/dvrn8xFBF6>`_ along with a few other good people that will be happy to help, just ask for help in `#p3hd-help <https://discord.com/channels/923959061467258890/923969627019681812>`_.
 
-   CEP Is not compatible with P3HD, thus it is recommended to start from scratch if you want P3HD support. If you want to use CEP, the guide to do so is `here <https://p3f.cep.one/install/getting-started>`.
+   CEP Is not compatible with P3HD, thus it is recommended to start from scratch if you want P3HD support. If you want to use CEP, the guide to do so is `here <https://p3f.cep.one/install/getting-started>`_.
 
    This guide will assume you're using windows, as Aemulus only runs under windows. For setting up mods under MacOS or for Linux/Steam Deck there will be an Extras section at the end of this guide. Do note that a Windows computer or VM is still required to setup your mods at the time of this writing.
 
