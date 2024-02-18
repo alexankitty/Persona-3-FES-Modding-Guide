@@ -108,12 +108,13 @@ Installing 7-Zip, PCSX2, and Aemulus
    in .ELF. Right click the file, then click Rename. Then type the name
    Persona 3 FES.ELF then hit enter. Finally it’ll give you a prompt
    asking if you want to change the file extension. Click **"Yes."**
-| 
-| "Um, Miss Kitty, CEP says you shouldn't rename the ELF." That's cool,
-  don't do it if you don't want to - just tack .ELF to the end of the
-  file, it makes no difference other than making your Discord Rich
-  Presence not look stupid in PCSX2 if you choose to enable that, and
-  also makes the game recognizable in your PCSX2 game list.
+   |
+   "Um, Miss Kitty, CEP says you shouldn't rename the ELF." That's cool,
+   don't do it if you don't want to - just tack .ELF to the end of the
+   file, it makes no difference other than making your Discord Rich
+   Presence not look stupid in PCSX2 if you choose to enable that, and
+   also makes the game recognizable in your PCSX2 game list.
+
 | |image23|
 | |image24|
 | |image25|

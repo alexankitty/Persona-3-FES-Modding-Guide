@@ -97,7 +97,7 @@ PCSX2 Setup
 -  15.    After that, if you're running the latest nightly version, click **"Cheats"** then click **"Enable All"**.
    If you're missing the cheats option on the left, you can ignore this step and continue on.
 
-| |image139|
+| |image163|
 
 -  16.    Once that’s done, your game properties should look similar to
    this. Go ahead and click **"Close"** now.
@@ -238,4 +238,4 @@ PCSX2 Setup
 .. |image136| image:: https://i.imgur.com/LMGGPyF.png
 .. |image137| image:: https://i.imgur.com/pd1rgJ3.png
 .. |image138| image:: https://i.imgur.com/bVfhAlf.png
-.. |image139| image:: https://i.imgur.com/vmFV44H.png
+.. |image163| image:: https://i.imgur.com/vmFV44H.png
