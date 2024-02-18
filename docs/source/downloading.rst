@@ -10,7 +10,7 @@ PCSX2
 
 #. Click **"Latest Nightly"**
 #. Then click the version that matches your OS. For most people this
-   will be the first option for Windows.
+   will be the first option for Windows. For Linux you will want the one ending in Appimage.
 
 | |image1|
 

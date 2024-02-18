@@ -17,8 +17,8 @@ Installing Persona 3 FES: HD Overhaul
 | |image33|
 | |image34|
 
-   .. note::
-      Under Linux you will want to drag and drop the textures from P3HD to **"~/.config/PCSX2"** instead
+.. note::
+   Under Linux you will want to drag and drop the textures from P3HD to **"~/.config/PCSX2"** instead
    
 
 -  b.    Inside the folder you will have one folder named

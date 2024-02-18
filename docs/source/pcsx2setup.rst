@@ -45,7 +45,7 @@ PCSX2 Setup
 | 
 | |image111|
 
--  8.    Open the pcsx2-qt.exe (or pcsx2-qt-av2.exe) file.
+-  8.    Open the pcsx2-qt.exe (or pcsx2-qt-av2.exe or for Linux pcsx2-v1.7.5397-linux-appimage-x64-Qt.AppImage) file.
 
 | 
 | |image112|

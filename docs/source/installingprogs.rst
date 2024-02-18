@@ -5,7 +5,7 @@ Folders
 -------
 
 .. note::
-   If you're running on linux, any instance of **"C:\\Emulation"** can be replaced with **"~\Documents\P3FMods"** where **~** refers to your home folder.
+   If you're running on linux, any instance of **"C:\\Emulation"** can be replaced with **"~/Documents/P3FMods"** where **~** refers to your home folder.
 
 
 -  1.    Setup a folder that is outside your user profile.
