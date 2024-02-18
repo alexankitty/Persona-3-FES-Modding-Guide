@@ -13,6 +13,7 @@ Steam Deck
 
     sudo steamos-readonly disable
     sudo sed -i "/\[multilib\]/,/Include/"'s/^#//' /etc/pacman.conf
+    sudo pacman -Sy
     sudo pacman -S curl wine winetricks p7zip unzip desktop-file-utils lib32-gnutls lib32-gst-plugins-base git
     sudo steamos-readonly enable
 
@@ -21,6 +22,7 @@ Arch Linux
 .. code-block:: sh
 
     sudo sed -i "/\[multilib\]/,/Include/"'s/^#//' /etc/pacman.conf
+    sudo pacman -Sy
     sudo pacman -S curl wine winetricks p7zip unzip desktop-file-utils lib32-gnutls lib32-gst-plugins-base git
 
 Debian/Ubuntu
