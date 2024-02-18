@@ -1,6 +1,12 @@
 Setting up Aemulus for Mods
 ===========================
 
+.. note::
+   If on Linux, replace instances of C:\\Emulation with ~/Documents/P3FMods where ~ refers to your home folder.
+   If for some reason you haven't installed aemulus, go to :doc:`linuxaemulussetup`.
+   Replace instances of opening the Aemulus exe with opening up Aemulus from your launcher.
+
+
 -  1.    Navigate back to your C:\\Emulation (Or whatever you named it)
    folder you made earlier using then double click your Aemulus folder.
 
@@ -53,6 +59,11 @@ Setting up Aemulus for Mods
 | If done right, your output folder will now be populated with
   C:\\Emulation\\MOD (or whichever folder you picked.)
 | |image57|
+
+.. note::
+   If on Linux, PCSX2 stores Cheats and Textures in **"~/.config/PCSX2"**. Replace instances of Cheats and Textures path with
+   **"Z:\home\<username>\.config\PCSX2\Cheats"** and  **"Z:\home\<username>\.config\PCSX2\Textures\SLUS-21621\replacements"**.
+
 
 -  7.    Setting up the **"Cheats"** and **"Cheats WS"** folder, you’ll
    click **"Browse"** next to cheats. Since your C:\\Emulation\\MOD

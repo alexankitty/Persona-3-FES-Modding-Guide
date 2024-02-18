@@ -9,6 +9,10 @@ Installing Mods
   beginning of this guide, and are recommended in conjunction with
   Persona 3 FES HD Overhaul.
 
+.. note::
+   These install methods also work with Linux.
+
+
 One-Click Method
 ----------------
 

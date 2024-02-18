@@ -1,6 +1,13 @@
 Installing 7-Zip, PCSX2, and Aemulus
 =====================================
 
+Folders
+-------
+
+.. note::
+   If you're running on linux, any instance of **"C:\\Emulation"** can be replaced with **"~\Documents\P3FMods"** where **~** refers to your home folder.
+
+
 -  1.    Setup a folder that is outside your user profile.
    Recommendation is to use something like C:\\Emulation or C:\\Persona,
    whichever is more convenient for you.
@@ -20,6 +27,9 @@ Installing 7-Zip, PCSX2, and Aemulus
 | |image7|
 | |image8|
 
+7-zip
+-----
+
 -  2.    Install 7-Zip, you should have the following files in your
    downloads folder. Open up a new file explorer window (Ctrl+N in the
    previous window will work for this) and navigate to **"Downloads"**
@@ -31,7 +41,13 @@ Installing 7-Zip, PCSX2, and Aemulus
 -  a.    Double click the 7z exe file, the icon will be black and white,
    and then follow the prompts to install.
 
-| 
+
+
+Aemulus
+-------
+
+:.. note::
+   For installing Aemulus under Linux, you will skip this section and instead follow the directions at :doc:`/linuxaemulussetup`.
 
 -  3.    Extract the contents of each of the packages we downloaded
    earlier. If 7zip is associated as the default file handler for 7z
@@ -52,6 +68,13 @@ Installing 7-Zip, PCSX2, and Aemulus
 -  b.    A few popups will come up during the extraction process,
    followed by a final explorer copy pop up. Let these do their thing,
    do not interrupt them or hit cancel.
+
+PCSX2
+-----
+
+.. note::
+   For Linux, I recommend using https://github.com/TheAssassin/AppImageLauncher which will allow you to install your AppImages.
+   Beyond that, an appimage is just a self contained binary, move it somewhere you can find it (or integrate it), no further steps required. Skip to step d.
 
 | 
 | |image12|
