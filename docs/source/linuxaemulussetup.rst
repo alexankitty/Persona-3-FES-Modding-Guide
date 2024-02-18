@@ -50,12 +50,8 @@ Install
 
     |image160|
 
-3.  Once running you will get a prompt to install wine mono. Click install on it to stop it from prompting again. The install script will automatically remove it from this prefix later.
+3.  Once the script has finished running, Aemulus can be opened by navigating to `Games > Aemulus Package Manager` in your launcher. An example of how this looks in KDE is provided. 
     |image161|
 
-4.  Once the script has finished running, Aemulus can be opened by navigating to `Games > Aemulus Package Manager` in your launcher. An example of how this looks in KDE is provided. 
-    |image162|
-
 .. |image160| image:: https://imgur.com/Po17FKf.png
-.. |image161| image:: https://imgur.com/TgZaoBg.png
-.. |image162| image:: https://imgur.com/2V5l7Eh.png
+.. |image161| image:: https://imgur.com/2V5l7Eh.png
