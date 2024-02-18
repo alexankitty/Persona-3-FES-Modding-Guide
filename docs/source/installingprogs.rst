@@ -98,7 +98,7 @@ PCSX2
 | |image15|
 | If done right your Emulation folder will look like this.
 
--  f.    Copy over your `legally obtained <https://p3f.cep.one/install/dump-p3f-iso>` Persona 3 FES.iso into the ROM
+-  f.    Copy over your `legally obtained <https://p3f.cep.one/install/dump-p3f-iso>`__ Persona 3 FES.iso into the ROM
    folder now.
 
 | 
@@ -168,7 +168,7 @@ PCSX2
 | Once opened your folder will look like this
 | |image31|
 
--  o.    Copy over your `legally obtained <https://p3f.cep.one/install/dump-ps2-bios>` bios into the bios folder.
+-  o.    Copy over your `legally obtained <https://p3f.cep.one/install/dump-ps2-bios>`__ bios into the bios folder.
    We’ll cover making sure your BIOS is in pcsx2 correctly later. For
    now, go ahead and close pcsx2.
 

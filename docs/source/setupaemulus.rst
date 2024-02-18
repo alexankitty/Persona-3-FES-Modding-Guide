@@ -69,8 +69,6 @@ Setting up Aemulus for Mods
    click **"Browse"** next to cheats. Since your C:\\Emulation\\MOD
    folder is the last one selected, it will automatically open to that
    path. Note: **Cheats_WS** no longer exists in new pcsx2 installs.
-   It's the patch folder now. If you have neither feel free to skip this
-   one. The only mod that uses this is rebirth cutscenes.
 -  a.    Click emulation at the top,
 -  b.    Then double click PCSX2.
 -  c.    Double click cheats.
@@ -86,10 +84,6 @@ Setting up Aemulus for Mods
 | |image60|
 | |image61|
 | |image62|
-| |image63|
-| |image64|
-| |image65|
-| |image66|
 
 -  8.    Next we’ll set the textures folder path. If you’re not using
    P3HD for whatever reason, this step may be skipped.

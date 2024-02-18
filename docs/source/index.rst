@@ -18,8 +18,9 @@ Requirements
 - `Latest Aemulus Release <https://github.com/TekkaGB/AemulusModManager/releases>`_
 - `7-Zip <https://www.7-zip.org/download.html>`_
 - Approximately 6GB of free space. 1GB if you're not using P3HD.
-- `Unpatched/Clean Persona 3 FES ISO with CRC 94A82AAA <https://p3f.cep.one/install/dump-p3f-iso>`
-- `USA/NTSC-U PS2 BIOS <https://p3f.cep.one/install/dump-ps2-bios>`
+- Once Aemulus is installed:
+   - `Unpatched/Clean Persona 3 FES ISO with CRC 94A82AAA <https://p3f.cep.one/install/dump-p3f-iso>`_
+   - `USA/NTSC-U PS2 BIOS <https://p3f.cep.one/install/dump-ps2-bios>`_
 
 .. note::
 
@@ -27,7 +28,7 @@ Requirements
 
    If you run into any problems, be sure to check :doc:`troubleshooting`. I'm also available in the `P3HD Discord Server <https://discord.gg/dvrn8xFBF6>`_ along with a few other good people that will be happy to help, just ask for help in `#p3hd-help <https://discord.com/channels/923959061467258890/923969627019681812>`_.
 
-   CEP Is not compatible with P3HD, thus it is recommended to start from scratch if you want P3HD support. If you want to use CEP, the guide to do so is `here <https://p3f.cep.one/install/getting-started>`.
+   CEP Is not compatible with P3HD, thus it is recommended to start from scratch if you want P3HD support. If you want to use CEP, the guide to do so is `here <https://p3f.cep.one/install/getting-started>`_.
 
    This guide will assume you're using windows, as Aemulus only runs under windows. For setting up mods under MacOS or for Linux/Steam Deck there will be an Extras section at the end of this guide. Do note that a Windows computer or VM is still required to setup your mods at the time of this writing.
 
