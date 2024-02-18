@@ -1,3 +1,4 @@
 sphinxext-opengraph
 sphinx-book-theme
 sphinxcontrib-images
+sphinx-copybutton

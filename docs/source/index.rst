@@ -1,11 +1,13 @@
 :og:description: The purpose of this guide is to help anyone be able to mod Persona 3 FES for the PS2.
 
+#########################
 How To Mod Persona 3 FES!
-=========================
+#########################
 
 .. image:: images/how_to_mod.png
 
 The purpose of this guide is to help anyone be able to mod Persona 3 FES for the PS2.
+If you would prefer to view this guide all in one page, there is the :doc:`/singlepage` for your convenience.
 
 Requirements
 ------------
@@ -54,11 +56,12 @@ Table of Contents
    installingmods
    pcsx2setup
    addtosteam
+   linuxaemulussetup
    otherplatforms
    emudeck
    otherpersonagames
    troubleshooting
    afterword
-   changelog
 
-   
+
+:doc:`/changelog` for your convenience.

@@ -1,5 +1,5 @@
-Linux/Steam Deck and MacOS
-==========================
+MacOS and Transferring from Different Systems
+=============================================
 
 |     The above steps will get you most of the way there, the PCSX2
   application steps should translate most of the way, but will look a
