@@ -44,14 +44,14 @@ Installing Persona 3 FES: HD Overhaul
   repeat for any other extras you want
 | |image42|
 
-.. |image32| image:: https://i.imgur.com/qV0vwY4.png
-.. |image33| image:: https://i.imgur.com/7U9ECEK.png
-.. |image34| image:: https://i.imgur.com/Z2ABpJE.png
-.. |image35| image:: https://i.imgur.com/GS3hI83.png
-.. |image36| image:: https://i.imgur.com/xuVZRyv.png
-.. |image37| image:: https://i.imgur.com/genIhjU.png
-.. |image38| image:: https://i.imgur.com/R6kiXXU.png
-.. |image39| image:: https://i.imgur.com/NniQ3Ry.png
-.. |image40| image:: https://i.imgur.com/vNY9GoM.png
-.. |image41| image:: https://i.imgur.com/BRTFG3e.png
-.. |image42| image:: https://i.imgur.com/8eEkB2h.png
+.. |image32| image:: images/32.png
+.. |image33| image:: images/33.png
+.. |image34| image:: images/34.png
+.. |image35| image:: images/35.png
+.. |image36| image:: images/36.png
+.. |image37| image:: images/37.png
+.. |image38| image:: images/38.png
+.. |image39| image:: images/39.png
+.. |image40| image:: images/40.png
+.. |image41| image:: images/41.png
+.. |image42| image:: images/42.png

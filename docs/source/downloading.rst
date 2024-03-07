@@ -48,8 +48,8 @@ Aemulus
 
 | |image5|
 
-.. |image1| image:: https://i.imgur.com/dUIQBXV.png
-.. |image2| image:: https://i.imgur.com/5OQRkvP.png
-.. |image3| image:: https://i.imgur.com/lzaVJgw.png
-.. |image4| image:: https://i.imgur.com/35TPObn.png
-.. |image5| image:: https://i.imgur.com/RpHh9Wu.png
+.. |image1| image:: images/1.png
+.. |image2| image:: images/2.png
+.. |image3| image:: images/3.png
+.. |image4| image:: images/4.png
+.. |image5| image:: images/5.png

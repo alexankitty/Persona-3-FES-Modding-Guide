@@ -141,19 +141,19 @@ Building your mods
 | 
 | |image103|
 
-.. |image88| image:: https://i.imgur.com/zV85pqC.png
-.. |image89| image:: https://i.imgur.com/Eg1YXjS.png
-.. |image90| image:: https://i.imgur.com/22gtRjY.png
-.. |image91| image:: https://i.imgur.com/OhuMOGb.png
-.. |image92| image:: https://i.imgur.com/qAkObT5.png
-.. |image93| image:: https://i.imgur.com/NDBEtt7.png
-.. |image94| image:: https://i.imgur.com/zlKdZzd.png
-.. |image95| image:: https://i.imgur.com/P0bqNKR.png
-.. |image96| image:: https://i.imgur.com/W44ClOk.png
-.. |image97| image:: https://i.imgur.com/E0FifkV.png
-.. |image98| image:: https://i.imgur.com/lYW8ytZ.png
-.. |image99| image:: https://i.imgur.com/NqUbF2b.png
-.. |image100| image:: https://i.imgur.com/SOnK4Ob.png
-.. |image101| image:: https://i.imgur.com/sTFCD7U.png
-.. |image102| image:: https://i.imgur.com/mhDuhFM.png
-.. |image103| image:: https://i.imgur.com/3MxVE84.png
+.. |image88| image:: images/88.png
+.. |image89| image:: images/89.png
+.. |image90| image:: images/90.png
+.. |image91| image:: images/91.png
+.. |image92| image:: images/92.png
+.. |image93| image:: images/93.png
+.. |image94| image:: images/94.png
+.. |image95| image:: images/95.png
+.. |image96| image:: images/96.png
+.. |image97| image:: images/97.png
+.. |image98| image:: images/98.png
+.. |image99| image:: images/99.png
+.. |image100| image:: images/100.png
+.. |image101| image:: images/101.png
+.. |image102| image:: images/102.png
+.. |image103| image:: images/103.png
