@@ -54,16 +54,16 @@ Adding the game to Steam (Optional)
 
 | 
 
-.. |image139| image:: https://i.imgur.com/jD4Gdgs.png
-.. |image140| image:: https://i.imgur.com/8mvclfB.png
-.. |image141| image:: https://i.imgur.com/2CvF2id.png
-.. |image142| image:: https://i.imgur.com/U3E8Flt.png
-.. |image143| image:: https://i.imgur.com/cNe6zsd.png
-.. |image144| image:: https://i.imgur.com/4czkYUr.png
-.. |image145| image:: https://i.imgur.com/mQhuKzT.png
-.. |image146| image:: https://i.imgur.com/P90AQjp.png
-.. |image147| image:: https://i.imgur.com/GbixVzJ.png
-.. |image148| image:: https://i.imgur.com/nu59iVW.png
-.. |image149| image:: https://i.imgur.com/xWHdOhe.png
-.. |image150| image:: https://i.imgur.com/rXPBAvk.png
-.. |image151| image:: https://i.imgur.com/t5NCsGg.png
+.. |image139| image:: images/139.png
+.. |image140| image:: images/140.png
+.. |image141| image:: images/141.png
+.. |image142| image:: images/142.png
+.. |image143| image:: images/143.png
+.. |image144| image:: images/144.png
+.. |image145| image:: images/145.png
+.. |image146| image:: images/146.png
+.. |image147| image:: images/147.png
+.. |image148| image:: images/148.png
+.. |image149| image:: images/149.png
+.. |image150| image:: images/150.png
+.. |image151| image:: images/151.png

@@ -60,10 +60,10 @@ Setting up the files on Linux/Steam Deck/MacOS
 | On Mac, double check where your textures and cheats paths are in your
   emulator and then copy them over as needed.
 
-.. |image152| image:: https://i.imgur.com/93tlbB2.png
-.. |image153| image:: https://i.imgur.com/7E6ItwK.png
-.. |image154| image:: https://i.imgur.com/OSg2eFz.png
-.. |image155| image:: https://i.imgur.com/70vu79d.png
-.. |image156| image:: https://i.imgur.com/p64Bxgu.png
-.. |image157| image:: https://i.imgur.com/cVzE4gr.png
-.. |image158| image:: https://i.imgur.com/8SKGRoq.png
+.. |image152| image:: images/152.png
+.. |image153| image:: images/153.png
+.. |image154| image:: images/154.png
+.. |image155| image:: images/155.png
+.. |image156| image:: images/156.png
+.. |image157| image:: images/157.png
+.. |image158| image:: images/158.png
