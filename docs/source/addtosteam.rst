@@ -49,8 +49,8 @@ Adding the game to Steam (Optional)
 
 -  7.    To change the icon, click the PS2 icon, then navigate to an
    icon of your choosing, for getting an actual icon however, that will
-   be out of the scope of this guide. You can grab a few icons from `here <https://www.steamgriddb.com/game/35402/icons>`.
-   If you want the one this site uses, you can grab it `here <_static/favicon.png>`.
+   be out of the scope of this guide. You can grab a few icons from `here <https://www.steamgriddb.com/game/35402/icons>`__.
+   If you want the one this site uses, you can grab it `here <_static/favicon.png>`__.
 
 | 
 

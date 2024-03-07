@@ -10,7 +10,7 @@ PCSX2
 
 #. Click **"Latest Nightly"**
 #. Then click the version that matches your OS. For most people this
-   will be the first option for Windows.
+   will be the first option for Windows. For Linux you will want the one ending in Appimage.
 
 | |image1|
 
@@ -29,7 +29,10 @@ Persona 3 FES: HD Overhaul
 Aemulus
 -------
 
-| 
+
+.. .. note::
+   If you're running on Linux you can skip this part.
+
 
 #. Click Latest Aemulus Release under Requirements, or click
    `here <https://github.com/TekkaGB/AemulusModManager/releases>`__.

@@ -1,17 +1,20 @@
 # Configuration file for the Sphinx documentation builder.
 
 # -- Project information
+import os
+import sys
+sys.path.insert(0, os.path.abspath('.'))
 
 project = 'Persona 3 FES Modding Guide'
 copyright = '2023, Alexankitty'
 author = 'Alexankitty'
 html_favicon = 'favicon.png'
 html_extra_path = [
-    "extra",
+    
 ]
 
-release = '1.1.0'
-version = '1.1.0'
+release = '1.2.0'
+version = '1.2.0'
 
 # -- General configuration
 
@@ -22,6 +25,8 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     "sphinxext.opengraph",
+    "sphinx_copybutton",
+    "fix-secnum"
 ]
 
 # -- OGP Configuration

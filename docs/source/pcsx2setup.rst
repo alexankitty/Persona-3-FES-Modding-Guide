@@ -45,7 +45,7 @@ PCSX2 Setup
 | 
 | |image111|
 
--  8.    Open the pcsx2-qt.exe (or pcsx2-qt-av2.exe) file.
+-  8.    Open the pcsx2-qt.exe (or pcsx2-qt-av2.exe or for Linux pcsx2-v1.7.5397-linux-appimage-x64-Qt.AppImage) file.
 
 | 
 | |image112|
@@ -97,7 +97,7 @@ PCSX2 Setup
 -  15.    After that, if you're running the latest nightly version, click **"Cheats"** then click **"Enable All"**.
    If you're missing the cheats option on the left, you can ignore this step and continue on.
 
-| |image139|
+| |image163|
 
 -  16.    Once that’s done, your game properties should look similar to
    this. Go ahead and click **"Close"** now.
@@ -238,4 +238,4 @@ PCSX2 Setup
 .. |image136| image:: images/136.png
 .. |image137| image:: images/137.png
 .. |image138| image:: images/138.png
-.. |image139| image:: images/139.png
+.. |image163| image:: images/139.png

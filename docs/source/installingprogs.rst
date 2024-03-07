@@ -1,6 +1,13 @@
 Installing 7-Zip, PCSX2, and Aemulus
 =====================================
 
+Folders
+-------
+
+.. note::
+   If you're running on linux, any instance of **"C:\\Emulation"** can be replaced with **"~/Documents/P3FMods"** where **~** refers to your home folder.
+
+
 -  1.    Setup a folder that is outside your user profile.
    Recommendation is to use something like C:\\Emulation or C:\\Persona,
    whichever is more convenient for you.
@@ -20,6 +27,9 @@ Installing 7-Zip, PCSX2, and Aemulus
 | |image7|
 | |image8|
 
+7-zip
+-----
+
 -  2.    Install 7-Zip, you should have the following files in your
    downloads folder. Open up a new file explorer window (Ctrl+N in the
    previous window will work for this) and navigate to **"Downloads"**
@@ -31,7 +41,13 @@ Installing 7-Zip, PCSX2, and Aemulus
 -  a.    Double click the 7z exe file, the icon will be black and white,
    and then follow the prompts to install.
 
-| 
+
+
+Aemulus
+-------
+
+:.. note::
+   For installing Aemulus under Linux, you will skip this section and instead follow the directions at :doc:`/linuxaemulussetup`.
 
 -  3.    Extract the contents of each of the packages we downloaded
    earlier. If 7zip is associated as the default file handler for 7z
@@ -52,6 +68,13 @@ Installing 7-Zip, PCSX2, and Aemulus
 -  b.    A few popups will come up during the extraction process,
    followed by a final explorer copy pop up. Let these do their thing,
    do not interrupt them or hit cancel.
+
+PCSX2
+-----
+
+.. note::
+   For Linux, I recommend using https://github.com/TheAssassin/AppImageLauncher which will allow you to install your AppImages.
+   Beyond that, an appimage is just a self contained binary, move it somewhere you can find it (or integrate it), no further steps required. Skip to step d.
 
 | 
 | |image12|
@@ -75,7 +98,7 @@ Installing 7-Zip, PCSX2, and Aemulus
 | |image15|
 | If done right your Emulation folder will look like this.
 
--  f.    Copy over your `legally obtained <https://p3f.cep.one/install/dump-p3f-iso>` Persona 3 FES.iso into the ROM
+-  f.    Copy over your `legally obtained <https://p3f.cep.one/install/dump-p3f-iso>`__ Persona 3 FES.iso into the ROM
    folder now.
 
 | 
@@ -108,12 +131,13 @@ Installing 7-Zip, PCSX2, and Aemulus
    in .ELF. Right click the file, then click Rename. Then type the name
    Persona 3 FES.ELF then hit enter. Finally it’ll give you a prompt
    asking if you want to change the file extension. Click **"Yes."**
-| 
-| "Um, Miss Kitty, CEP says you shouldn't rename the ELF." That's cool,
-  don't do it if you don't want to - just tack .ELF to the end of the
-  file, it makes no difference other than making your Discord Rich
-  Presence not look stupid in PCSX2 if you choose to enable that, and
-  also makes the game recognizable in your PCSX2 game list.
+   |
+   "Um, Miss Kitty, CEP says you shouldn't rename the ELF." That's cool,
+   don't do it if you don't want to - just tack .ELF to the end of the
+   file, it makes no difference other than making your Discord Rich
+   Presence not look stupid in PCSX2 if you choose to enable that, and
+   also makes the game recognizable in your PCSX2 game list.
+
 | |image23|
 | |image24|
 | |image25|
@@ -144,7 +168,7 @@ Installing 7-Zip, PCSX2, and Aemulus
 | Once opened your folder will look like this
 | |image31|
 
--  o.    Copy over your `legally obtained <https://p3f.cep.one/install/dump-ps2-bios>` bios into the bios folder.
+-  o.    Copy over your `legally obtained <https://p3f.cep.one/install/dump-ps2-bios>`__ bios into the bios folder.
    We’ll cover making sure your BIOS is in pcsx2 correctly later. For
    now, go ahead and close pcsx2.
 
