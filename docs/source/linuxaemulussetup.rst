@@ -15,8 +15,7 @@ Steam Deck
     sudo sed -i "/\[multilib\]/,/Include/"'s/^#//' /etc/pacman.conf
     sudo pacman -Sy
     sudo pacman-key --init    
-    sudo pacman-key --populate holo
-    sudo pacman-key --populate archlinux
+    sudo pacman-key --populate holo archlinux
     sudo pacman -S curl wine winetricks p7zip unzip desktop-file-utils lib32-gnutls lib32-gst-plugins-base git
     sudo steamos-readonly enable
 
