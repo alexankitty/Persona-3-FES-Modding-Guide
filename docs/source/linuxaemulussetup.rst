@@ -33,8 +33,8 @@ Steam Deck and Other Immutable Distros Install
 1. Clone or click code, then download zip from https://github.com/alexankitty/aemulus-installer-linux.
 2. If you downloaded the source zip, extract it.
 3. Open your terminal and cd to the aemulus-installer-linux folder.
-4. If you downloaded the source zip, run `chmod +x AemulusSetupImmutable.sh`.
-5. Run the script with `./AemulusSetupImmutable.sh`.
+4. If you downloaded the source zip, run `chmod +x AemulusSetupProton.sh`.
+5. Run the script with `./AemulusSetupProton.sh`.
 
 Install
 -------
